@@ -1,6 +1,7 @@
 # 👋 안녕하세요, 금융IT 개발자 입니다
 
-> 13년간 보험 시스템 개발 전반을 담당하며, 최근에는 생성형 AI와 차세대 시스템 전략을 이끌고 있습니다.
+> 13년간 보험 시스템 개발 전반을 담당하며, 최근에는 차세대 시스템 구축과
+> AI를 통한 생산성 향상과 개발에 관심이 있습니다.
 
 ---
 ## 🧠 소개
@@ -41,14 +42,13 @@
 - 🏆 **수상 및 공모전**  
   - 2010 공개 SW개발자대회 **LG전자상 수상**  
   - IBM Campus Wizard 활동  
-  - 미래에셋-KAIST AI 디지털 전문가 과정 수료
+  - KAIST AI 디지털 전문가 과정 수료
 
 ---
 
 ## 📫 연락처
-- ✉️ 이메일: your.email@domain.com  
-- 📝 기술 블로그: https://yourtechblog.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourname
+- ✉️ 이메일: bigsuh.dev@gmail.com
+- 📝 기술 블로그: (준비중) 
 
 ---
 > “금융(Finance) IT의 한계를 넘어, 기술(Tech)로 미래를 연결하다”  
